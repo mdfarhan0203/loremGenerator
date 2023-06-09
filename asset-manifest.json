@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/loremGenerator/static/css/main.0ee6131d.css",
+    "main.js": "/loremGenerator/static/js/main.0e68f184.js",
+    "index.html": "/loremGenerator/index.html",
+    "main.0ee6131d.css.map": "/loremGenerator/static/css/main.0ee6131d.css.map",
+    "main.0e68f184.js.map": "/loremGenerator/static/js/main.0e68f184.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ee6131d.css",
+    "static/js/main.0e68f184.js"
+  ]
+}
