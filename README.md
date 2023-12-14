@@ -17,7 +17,8 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>BOOTSTRAP</li>
-   <li>REACTJS</li>
+  <li>JAVASCRIPT</li>
+  <li>REACTJS</li>
 </ul>
 
 <h2>AUTHOR</h2>
