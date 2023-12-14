@@ -12,7 +12,7 @@
 ![lorem3](https://github.com/mdfarhan0203/loremGenerator/assets/50393822/4d2988d3-6321-4448-b4e3-89caae6871ed)
 
 
-<h2>Built![Uploading lorem2.jpg…]()
+<h2>Built()
  With</h2>
 <ul>
   <li>HTML</li>
